@@ -1,2 +1,0 @@
-# Asymmetry-in-Spacing-Statistics-of-Real-and-Imaginary-Crossings-of-the-Riemann-Zeta-Function
-We investigate the local spacing statistics of crossing points of the Riemann zeta function along the critical line, distinguishing between zeros of the real and imaginary parts of ζ(1/2 + it). Using numerical computations up to T = 200, we extract crossing sequences and analyze their normalized nearest-neighbor spacings.
